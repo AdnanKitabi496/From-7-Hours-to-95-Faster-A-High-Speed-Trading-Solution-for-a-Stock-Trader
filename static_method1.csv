@@ -1,0 +1,6 @@
+Lower % bound for sma20,Upper % bound for sma20,Momentum threshold,% up for Day,% up from open,Lower bound for RSI,Upper bound for RSI,Total/Average volume ratio,Market cap threshold,win,upwin,Loss,update loss,Win/Loss Ratio
+OFF,OFF,0,OFF,14,65,75,OFF,500,24,0,17,0,1.2549019607843137
+OFF,OFF,-25,OFF,14,65,75,OFF,2500,18,0,13,0,1.2307692307692308
+OFF,OFF,25,OFF,14,50,75,OFF,2500,46,0,32,3,1.2026143790849673
+OFF,OFF,25,OFF,14,50,60,OFF,2500,22,0,15,3,1.1503267973856208
+OFF,OFF,50,OFF,14,50,75,OFF,2500,44,0,32,3,1.1503267973856208
